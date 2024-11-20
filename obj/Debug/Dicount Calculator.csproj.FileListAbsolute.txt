@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Dicount Calculator\Dicount Calculator\bin\Debug\Dicount Calculator.exe.config
+C:\Users\DELL\source\repos\Dicount Calculator\Dicount Calculator\bin\Debug\Dicount Calculator.exe
+C:\Users\DELL\source\repos\Dicount Calculator\Dicount Calculator\bin\Debug\Dicount Calculator.pdb
+C:\Users\DELL\source\repos\Dicount Calculator\Dicount Calculator\obj\Debug\Dicount Calculator.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Dicount Calculator\Dicount Calculator\obj\Debug\Dicount Calculator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Dicount Calculator\Dicount Calculator\obj\Debug\Dicount Calculator.exe
+C:\Users\DELL\source\repos\Dicount Calculator\Dicount Calculator\obj\Debug\Dicount Calculator.pdb
